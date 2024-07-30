@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Andrés Felipe Cadena Castillo</ThemedText>
+        <ThemedText type="title">Esteban Alejandro Espinosa Castillo</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
